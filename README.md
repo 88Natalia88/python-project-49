@@ -8,3 +8,5 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=88Natalia88_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=88Natalia88_python-project-49)
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=88Natalia88_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=88Natalia88_python-project-49)
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/AW9S7SMGSBOkKnqt)
