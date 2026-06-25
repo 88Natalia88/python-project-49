@@ -9,4 +9,6 @@
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=88Natalia88_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=88Natalia88_python-project-49)
 
-[![asciicast](https://asciinema.org/a/AW9S7SMGSBOkKnqt.svg)](https://asciinema.org/a/AW9S7SMGSBOkKnqt)
+[![asciicast](https://asciinema.org/a/tSKSg3zCby8iLWnF.svg)](https://asciinema.org/a/tSKSg3zCby8iLWnF)
+
+[![asciicast](https://asciinema.org/a/lusEcfL9pQ2CDs6V.svg)](https://asciinema.org/a/lusEcfL9pQ2CDs6V)
