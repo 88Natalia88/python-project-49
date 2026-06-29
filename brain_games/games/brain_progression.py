@@ -9,8 +9,8 @@ def creating_game_logic():
     random_array = []
 
     for i in range(random_lenght):
-        currentElement = random_number + i * random_step
-        random_array.append(currentElement)
+        current_element = random_number + i * random_step
+        random_array.append(current_element)
     
     random_hidden_number = random.choice(random_array)
     hidden_index = random_array.index(random_hidden_number)
