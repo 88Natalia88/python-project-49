@@ -6,7 +6,7 @@ def creating_game_logic():
     random_number1 = random.randint(1, 100)
     random_number2 = random.randint(1, 100)
     operator = random.choice(['+', '-', '*'])
-    question = f"{random_number1}{operator}{random_number2}"
+    question = f"{random_number1} {operator} {random_number2}"
 
     match operator:
             case '+':
